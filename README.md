@@ -11,7 +11,7 @@ This repository contains my data analytics projects completed during the DecodeL
 |---------|-------|--------|
 | Project 1 | Data Cleaning & Preparation | ✅ Completed |
 | Project 2 | Exploratory Data Analysis (EDA) | ✅ Completed |
-
+| Project 3 | SQL Data Analysis | ✅ Completed |
 ---
 
 ## 🛠️ Tools & Technologies
