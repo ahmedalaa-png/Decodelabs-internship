@@ -20,7 +20,7 @@ This repository contains my data analytics projects completed during the DecodeL
 - Matplotlib, Seaborn
 - Jupyter Notebook
 - VS Code
-
+- SQLite3
 ---
 
 ## 👤 Author
